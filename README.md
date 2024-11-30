@@ -222,5 +222,5 @@ In summary, the free-free boundary condition leads to a rank-deficient stiffness
 
 ---
 
-## License
-This project is open-source under the MIT License.
+## Credit
+This project was made by Mihir Bendre, with the assistance of ChatGPT.
